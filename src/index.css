@@ -1,0 +1,85 @@
+.color-body {
+  background-color: #f8f8f8;
+  min-height: 100vh;
+}
+.font {
+  font-family: "Cairo", sans-serif;
+}
+.title {
+  color: #224f61;
+  font-family: "Cairo", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 60px;
+}
+.underline {
+  height: 1px;
+  width: 200px;
+  border-radius: 10px;
+  border: 2px solid #b45b35;
+}
+.btn-search {
+  font-family: "Cairo", sans-serif;
+  color: #b45b35;
+  border: 1px solid #b45b35;
+  border-radius: 6px;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+.btn-search:hover {
+  font-family: "Cairo", sans-serif;
+  color: white;
+  background-color: #b45b35;
+}
+.brand {
+  color: #b45b35;
+  font-weight: 500;
+}
+.cat-btn {
+  color: black;
+  font-family: "Cairo", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 24px;
+  border-radius: 7px;
+  padding: 10px;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+.cat-btn:hover {
+  color: black;
+  font-family: "Cairo", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 24px;
+  border: none;
+  border-radius: 10px;
+  background-color: #b45b35;
+}
+.card-img {
+  height: 200px !important;
+  width: 200px !important;
+  border-radius: 5px;
+}
+.card-price {
+  color: #b45b35;
+  font-family: "Cairo", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+.card-title {
+  color: #555555;
+  font-family: "Cairo", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 20px;
+}
+
+.card-desc {
+  color: #8c8c8c;
+  font-family: "Cairo", sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+}
